@@ -1,11 +1,13 @@
 # LittleLives Software Engineering Intern Test
 This is an API that'll listen to GitHub Issues Webhook and update a linked Google Sheets.
 
+Based on this original documentation: 
+https://github.com/ShenyiCui/LittleLives-WrittenTest-May2021/blob/main/User%20Documentation/00%20Oringal%20Documentation.pdf
 
 1. This API is currently being hosted on AWS Lambda at the address of: 
 https://nyfr8edqnk.execute-api.ap-southeast-1.amazonaws.com/Final/github-webhook-issues
 2. The Webhook secret will be emailed to the intended recipient.
-3. The Google Sheets Document will be emailed to the intended recipient 
+3. The Google Sheets Document will be emailed to the intended recipient.
 
 ### USER DOCUMENTATION:
 Api Documentation:

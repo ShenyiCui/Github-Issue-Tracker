@@ -1,4 +1,4 @@
-# LittleLives Software Engineering Intern Test
+# Github Issues Webhooks with Google Sheets Integration
 This is an API that'll listen to GitHub Issues Webhook and update a linked Google Sheets.
 
 Based on this original documentation: 

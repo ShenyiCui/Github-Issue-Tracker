@@ -1,7 +1,7 @@
 # Github Issues Webhooks with Google Sheets Integration
 This is an API that'll listen to GitHub Issues Webhook and update a linked Google Sheets.
 
-[**Original Project Specifications**](https://github.com/ShenyiCui/Github-Issue-Tracker/blob/main/User%20Documentation/00%20Oringal%20Documentation.pdf)
+* [**Original Project Specifications**](https://github.com/ShenyiCui/Github-Issue-Tracker/blob/main/User%20Documentation/00%20Oringal%20Documentation.pdf)
 
 1. This API is currently being hosted on [AWS Lambda](https://nyfr8edqnk.execute-api.ap-southeast-1.amazonaws.com/Final/github-webhook-issues)
 2. The Webhook secret will be emailed to the intended recipient.
